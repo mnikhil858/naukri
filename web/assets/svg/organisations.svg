@@ -1,0 +1,30 @@
+<svg id="Group_35" data-name="Group 35" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="95.921" height="99.114" viewBox="0 0 95.921 99.114">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_83" data-name="Rectangle 83" width="86.752" height="48.666" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_34" data-name="Group 34" transform="translate(0 0)">
+    <path id="Polygon_35" data-name="Polygon 35" d="M43.065.743a1.411,1.411,0,0,1,1.66,0L83.058,28.622a1.411,1.411,0,0,1-.83,2.551H5.561a1.411,1.411,0,0,1-.829-2.551Z" transform="translate(4.419 -0.473)" fill="#0a4a65"/>
+    <rect id="Rectangle_83-2" data-name="Rectangle 83" width="95.921" height="7.758" rx="3.879" transform="translate(0 32.11)" fill="#1289bb"/>
+    <path id="Rectangle_84" data-name="Rectangle 84" d="M4.232,0H91.69a4.232,4.232,0,0,1,4.232,4.232V7.758H0V4.232A4.232,4.232,0,0,1,4.232,0Z" transform="translate(0 91.356)" fill="#0a4a65"/>
+    <g id="Repeat_Grid_13" data-name="Repeat Grid 13" transform="translate(4.937 41.279)" clip-path="url(#clip-path)">
+      <g id="Group_34-2" data-name="Group 34" transform="translate(0)">
+        <path id="Rectangle_96" data-name="Rectangle 96" d="M4.232,0H15.517a4.232,4.232,0,0,1,4.232,4.232V5.642H0V4.232A4.232,4.232,0,0,1,4.232,0Z" transform="translate(0 43.024)" fill="#0a4a65"/>
+        <path id="Rectangle_94" data-name="Rectangle 94" d="M0,0H19.749V1.411a4.232,4.232,0,0,1-4.232,4.232H4.232A4.232,4.232,0,0,1,0,1.411Z" transform="translate(0)" fill="#0a4a65"/>
+        <path id="Rectangle_87" data-name="Rectangle 87" d="M4.232,0H15.517a4.232,4.232,0,0,1,4.232,4.232V5.642H0V4.232A4.232,4.232,0,0,1,4.232,0Z" transform="translate(21.864 43.024)" fill="#0a4a65"/>
+        <path id="Rectangle_88" data-name="Rectangle 88" d="M0,0H19.749V1.411a4.232,4.232,0,0,1-4.232,4.232H4.232A4.232,4.232,0,0,1,0,1.411Z" transform="translate(21.864)" fill="#0a4a65"/>
+        <rect id="Rectangle_95" data-name="Rectangle 95" width="8.464" height="34.56" transform="translate(5.642 7.053)" fill="#1289bb"/>
+        <rect id="Rectangle_93" data-name="Rectangle 93" width="8.464" height="34.56" transform="translate(27.507 7.053)" fill="#1289bb"/>
+      </g>
+      <g id="Group_35-2" data-name="Group 35" transform="translate(43.729)">
+        <path id="Rectangle_96-2" data-name="Rectangle 96" d="M4.232,0H15.517a4.232,4.232,0,0,1,4.232,4.232V5.642H0V4.232A4.232,4.232,0,0,1,4.232,0Z" transform="translate(0 43.024)" fill="#0a4a65"/>
+        <path id="Rectangle_94-2" data-name="Rectangle 94" d="M0,0H19.749V1.411a4.232,4.232,0,0,1-4.232,4.232H4.232A4.232,4.232,0,0,1,0,1.411Z" transform="translate(0)" fill="#0a4a65"/>
+        <path id="Rectangle_87-2" data-name="Rectangle 87" d="M4.232,0H15.517a4.232,4.232,0,0,1,4.232,4.232V5.642H0V4.232A4.232,4.232,0,0,1,4.232,0Z" transform="translate(21.864 43.024)" fill="#0a4a65"/>
+        <path id="Rectangle_88-2" data-name="Rectangle 88" d="M0,0H19.749V1.411a4.232,4.232,0,0,1-4.232,4.232H4.232A4.232,4.232,0,0,1,0,1.411Z" transform="translate(21.864)" fill="#0a4a65"/>
+        <rect id="Rectangle_95-2" data-name="Rectangle 95" width="8.464" height="34.56" transform="translate(5.642 7.053)" fill="#1289bb"/>
+        <rect id="Rectangle_93-2" data-name="Rectangle 93" width="8.464" height="34.56" transform="translate(27.507 7.053)" fill="#1289bb"/>
+      </g>
+    </g>
+  </g>
+</svg>

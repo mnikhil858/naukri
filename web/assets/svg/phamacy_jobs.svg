@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="110" viewBox="0 0 110 110">
+  <g id="Group_113" data-name="Group 113" transform="translate(-781 -7101)">
+    <circle id="Ellipse_20" data-name="Ellipse 20" cx="55" cy="55" r="55" transform="translate(781 7101)" fill="#448bfc"/>
+    <g id="drug" transform="translate(801.727 7123.001)">
+      <g id="Group_98" data-name="Group 98" transform="translate(22.309 -0.001)">
+        <g id="Group_97" data-name="Group 97" transform="translate(0 0)">
+          <path id="Path_110" data-name="Path 110" d="M209.2,5.128a17.571,17.571,0,0,0-24.814,0L169.915,19.595,186.34,36.019a19.2,19.2,0,0,1,20.046-3.007l2.81-3.07A17.568,17.568,0,0,0,209.2,5.128Z" transform="translate(-169.915 0.001)" fill="#fce879"/>
+        </g>
+      </g>
+      <g id="Group_100" data-name="Group 100" transform="translate(0.263 22.351)">
+        <g id="Group_99" data-name="Group 99">
+          <path id="Path_111" data-name="Path 111" d="M36,188.455,19.552,172.008,5.393,186.181a17.638,17.638,0,0,0,24.944,24.944l2.87-2.884A19.189,19.189,0,0,1,36,188.455Z" transform="translate(-0.263 -172.008)" fill="#ff7676"/>
+        </g>
+      </g>
+      <g id="Group_102" data-name="Group 102" transform="translate(35.536 35.537)">
+        <g id="Group_101" data-name="Group 101">
+          <path id="Path_112" data-name="Path 112" d="M271.7,288.877a15.545,15.545,0,0,0,13.646,15.4v-30.8A15.545,15.545,0,0,0,271.7,288.877Z" transform="translate(-271.703 -273.478)" fill="#cce36c"/>
+        </g>
+      </g>
+      <g id="Group_104" data-name="Group 104" transform="translate(53.081 35.537)">
+        <g id="Group_103" data-name="Group 103">
+          <path id="Path_113" data-name="Path 113" d="M406.722,273.478v30.8a15.512,15.512,0,0,0,0-30.8Z" transform="translate(-406.722 -273.478)" fill="#cce36c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
